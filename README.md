@@ -122,35 +122,35 @@ Screenshots of the results for each question are included in the `Assignment/Scr
 
 **Question 1**
 
-![Question 1](Assignment/Screenshots/Q1.png)
+![Question 1](Assignment/Screenshots/Question%201.png)
 
 **Question 2**
 
-![Question 2](Assignment/Screenshots/Q2.png)
+![Question 2](Assignment/Screenshots/Question%202.png)
 
 **Question 3**
 
-![Question 3](Assignment/Screenshots/Q3.png)
+![Question 3](Assignment/Screenshots/Question%203.png)
 
 **Question 4**
 
-![Question 4](Assignment/Screenshots/Q4.png)
+![Question 4](Assignment/Screenshots/Question%204.png)
 
 **Question 5**
 
-![Question 5](Assignment/Screenshots/Q5.png)
+![Question 5](Assignment/Screenshots/Question%205.png)
 
 **Question 6**
 
-![Question 6](Assignment/Screenshots/Q6.png)
+![Question 6](Assignment/Screenshots/Question%206.png)
 
 **Question 7**
 
-![Question 7](Assignment/Screenshots/Q7.png)
+![Question 7](Assignment/Screenshots/Question%207.png)
 
 **Question 8**
 
-![Question 8](Assignment/Screenshots/Q8.png)
+![Question 8](Assignment/Screenshots/Question%208.png)
 
 **7. Business Interpretation**
 
